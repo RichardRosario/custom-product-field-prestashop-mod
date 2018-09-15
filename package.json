@@ -1,0 +1,24 @@
+{
+  "name": "customize",
+  "version": "1.0.0",
+  "description": "Customize product dimensions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardRosario/custom-product-field-prestashop-mod.git"
+  },
+  "keywords": [
+    "prestashop",
+    "module",
+    "custom",
+    "field"
+  ],
+  "author": "Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardRosario/custom-product-field-prestashop-mod/issues"
+  },
+  "homepage": "https://github.com/RichardRosario/custom-product-field-prestashop-mod#readme"
+}
